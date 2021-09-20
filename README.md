@@ -26,7 +26,13 @@
 > cd bitch-bot
 > npm i
 > npm start/node index.js
+
 ```
+-------
+## ```Deploy```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rasssya76/bitch-bot/tree/main/)
+
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
